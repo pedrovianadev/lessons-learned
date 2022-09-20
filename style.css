@@ -16,3 +16,11 @@ body {
     border-radius: 100%;
     margin: auto;
 }
+
+#licoes_aprendidas {
+    display: inline-block;
+}
+
+#licoes_a_aprender {
+    display: inline-block;
+}
