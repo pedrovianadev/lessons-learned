@@ -25,3 +25,9 @@ body {
 #licoes_a_aprender {
     display: inline-block;
 }
+
+article {
+    margin: 25px;
+    padding: 25px;
+    border: 1px solid black;
+}
