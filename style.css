@@ -39,3 +39,15 @@ article {
 aside {
     border: 1px solid black;
 }
+
+.lado-esquerdo {
+    display: block;
+    float: left;
+    width: 400px;
+}
+
+.lado-direito {
+    display: block;
+    float: right;
+    width: 400px;
+}
