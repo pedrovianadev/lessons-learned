@@ -1,5 +1,9 @@
 body {
     background-color: rgb(253, 251, 251);
+    font-size: 15px;
+    font-family: monospace;
+    line-height: 30px;
+    color: gray;
 }
 
 #cabecalho {
@@ -7,7 +11,7 @@ body {
     left: 0;
     right: 0;
     position: fixed;
-    background-color: crimson;
+    background-color: cadetblue;
 }
 
 #minha_foto {
